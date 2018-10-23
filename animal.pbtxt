@@ -1,0 +1,30 @@
+item {
+  name: "cat"
+  id: 1
+  display_name: "Cat"
+}
+item {
+  name: "dog"
+  id: 2
+  display_name: "Dog"
+}
+item {
+  name: "frog"
+  id: 3
+  display_name: "Frog"
+}
+item {
+  name: "lizards"
+  id: 4
+  display_name: "Lizard"
+}
+item {
+  name: "monkey"
+  id: 5
+  display_name: "Monkey"
+}
+item {
+  name: "snake"
+  id: 6
+  display_name: "Snake"
+}
